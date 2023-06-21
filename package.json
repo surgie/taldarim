@@ -17,7 +17,7 @@
     "express": "^4.16.4",
     "@nuxtjs/bulma": "^1.2.1",
     "@nuxtjs/axios": "^5.3.6",
-    "nuxt": "^2.0.0"
+    "nuxt": "^3.4.3"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^0.0.1",
